@@ -1,5 +1,5 @@
 # ISAP-2 Computer
-The ISAP-2 calculator is the improved version of the SAP-2 calculator made by me.
+The ISAP-2 Computer is the improved version of the SAP-2 Computer made by me.
 
 ISAP Computer stands for Improved Simple as Possible Computer.
 
